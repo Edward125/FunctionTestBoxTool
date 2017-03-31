@@ -1,0 +1,42 @@
+20150922133540->Start the tool.
+20150922133540->Create ini file.
+20150922133557->Can't open SerialPort=COM1,Message:端口“COM1”不存在。
+20150922133625->Open SerialPort=COM1 success.
+20150922133636->Check Barcode Length Success,Length is 23
+20150922133636->Check Barcode Start Whit Success,start with is SC50F54313
+20150922133636->SN:SC50F54313123456789012U
+20150922133637->confirmed start test
+20150922133637->Now check Test item 1->Speaker
+20150922133637->Item 1->Speaker test status = NO,skip!
+20150922133637->Now check Test item 2->Keyboard
+20150922133637->Item 2->Keyboard test status = YES,ready to test!
+20150922133647->Item Keyboard test FAIL.
+20150922133647->SN:SC50F54313123456789012u,Result:FAIL
+20150922134457->Start the tool.
+20150922134457->Create ini file.
+20150922134458->Open SerialPort=COM1 success.
+20150922134504->Check Barcode Length Fail,Length is 23,Actual length is 8
+20150922134511->Check Barcode Length Success,Length is 23
+20150922134511->Check Barcode Start Whit Fail,start with is SC50F54313
+20150922134527->Check Barcode Length Fail,Length is 23,Actual length is 29
+20150922134539->Check Barcode Length Fail,Length is 23,Actual length is 21
+20150922134548->Check Barcode Length Success,Length is 23
+20150922134548->Check Barcode Start Whit Success,start with is SC50F54313
+20150922134548->SN:SC50F543131234567890786
+20150922134550->confirmed start test
+20150922134551->Now check Test item 1->Speaker
+20150922134551->Item 1->Speaker test status = NO,skip!
+20150922134551->Now check Test item 2->Keyboard
+20150922134551->Item 2->Keyboard test status = YES,ready to test!
+20150922134601->Item Keyboard test FAIL.
+20150922134615->Item Keyboard test FAIL.
+20150922134618->SN:SC50F543131234567890786,Result:FAIL
+20150922134628->Check Barcode Length Success,Length is 23
+20150922134628->Check Barcode Start Whit Success,start with is SC50F54313
+20150922134628->SN:SC50F543131234567890RTG
+20150922134630->confirmed start test
+20150922134630->Now check Test item 1->Speaker
+20150922134630->Item 1->Speaker test status = NO,skip!
+20150922134630->Now check Test item 2->Keyboard
+20150922134630->Item 2->Keyboard test status = YES,ready to test!
+20150922134640->Item Keyboard test FAIL.

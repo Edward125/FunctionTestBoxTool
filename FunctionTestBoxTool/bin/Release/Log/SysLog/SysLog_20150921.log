@@ -1,0 +1,603 @@
+20150921102559->Start the tool.
+20150921102559->Create ini file.
+20150921105409->Start the tool.
+20150921105409->Create ini file.
+20150921105423->Start the tool.
+20150921105423->Create ini file.
+20150921105444->Start the tool.
+20150921105444->Create ini file.
+20150921105519->Start the tool.
+20150921105519->Create ini file.
+20150921154227->Start the tool.
+20150921154227->Create ini file.
+20150921154230->Comport name cam't be empty!
+20150921154301->Open SerialPort=COM1 success.
+20150921154744->Start the tool.
+20150921154744->Create ini file.
+20150921154745->Open SerialPort=COM1 success.
+20150921154753->Check Barcode Length Success,Length is 22
+20150921154753->Check Barcode Start Whit Fail,start with is SFSC
+20150921154755->confirmed start test
+20150921154755->Now check Test item 1->Vibrator
+20150921154755->Item 1->Vibrator test status = NO,skip!
+20150921154755->Now check Test item 2->Speaker
+20150921154755->Item 2->Speaker test status = NO,skip!
+20150921154755->Now check Test item 3->Keyboard
+20150921154755->Item 3->Keyboard test status = NO,skip!
+20150921154755->Now check Test item 4->Audio
+20150921154755->Item 4->Audio test status = NO,skip!
+20150921154755->Now check Test item 5->USB30
+20150921154755->Item 5->USB30 test status = NO,skip!
+20150921154755->Now check Test item 6->HDMI
+20150921154755->Item 6->HDMI test status = NO,skip!
+20150921154755->Now check Test item 7->DCIN
+20150921154755->Item 7->DCIN test status = NO,skip!
+20150921154947->Start the tool.
+20150921154947->Create ini file.
+20150921154948->Open SerialPort=COM1 success.
+20150921154952->Check Barcode Length Fail,Length is 22
+20150921164804->Start the tool.
+20150921164804->Create ini file.
+20150921164805->Open SerialPort=COM1 success.
+20150921164807->Check Barcode Length Fail,Length is 22
+20150921164812->Check Barcode Length Fail,Length is 22
+20150921164815->Check Barcode Length Fail,Length is 22
+20150921164817->Check Barcode Length Fail,Length is 22
+20150921164818->Check Barcode Length Fail,Length is 22
+20150921164825->Input 'E.S.C', quit the test!
+20150921165030->Start the tool.
+20150921165030->Create ini file.
+20150921165031->Open SerialPort=COM1 success.
+20150921165033->Check Barcode Length Fail,Length is 22
+20150921165034->Check Barcode Length Fail,Length is 22
+20150921165204->Start the tool.
+20150921165204->Create ini file.
+20150921165205->Open SerialPort=COM1 success.
+20150921165207->Check Barcode Length Fail,Length is 22,Actual length is 2
+20150921165208->Check Barcode Length Fail,Length is 22,Actual length is 9
+20150921165227->Check Barcode Length Success,Length is 22
+20150921165227->Check Barcode Start Whit Fail,start with is SFSC
+20150921170326->Start the tool.
+20150921170326->Create ini file.
+20150921170327->Open SerialPort=COM1 success.
+20150921170330->Check Barcode Length Success,Length is 22
+20150921170330->Check Barcode Start Whit Fail,start with is SFSC
+20150921170341->Check Barcode Length Fail,Length is 22,Actual length is 20
+20150921170350->Check Barcode Length Success,Length is 22
+20150921170350->Check Barcode Start Whit Fail,start with is SFSC
+20150921170456->Start the tool.
+20150921170456->Create ini file.
+20150921170458->Open SerialPort=COM1 success.
+20150921170500->Error,SN may be empty or null,but SN Can't be empty or null,try agian.
+20150921170504->Input 'E.S.C', quit the test!
+20150921170512->Open SerialPort=COM1 success.
+20150921170601->Start the tool.
+20150921170601->Create ini file.
+20150921170642->Open SerialPort=COM1 success.
+20150921170651->Check Barcode Length Success,Length is 23
+20150921170651->Check Barcode Start Whit Success,start with is SC50F54313
+20150921170651->SN:SC50F543131234567890123
+20150921170704->Start the tool.
+20150921170704->Create ini file.
+20150921170708->Start the tool.
+20150921170708->Create ini file.
+20150921170709->Open SerialPort=COM1 success.
+20150921170716->Check Barcode Length Success,Length is 23
+20150921170716->Check Barcode Start Whit Success,start with is SC50F54313
+20150921170716->SN:SC50F543131234567890123
+20150921170718->confirmed start test
+20150921170718->Now check Test item 1->Vibrator
+20150921170718->Item 1->Vibrator test status = NO,skip!
+20150921170718->Now check Test item 2->Speaker
+20150921170718->Item 2->Speaker test status = NO,skip!
+20150921170718->Now check Test item 3->Keyboard
+20150921170718->Item 3->Keyboard test status = NO,skip!
+20150921170718->Now check Test item 4->Audio
+20150921170718->Item 4->Audio test status = NO,skip!
+20150921170718->Now check Test item 5->USB30
+20150921170718->Item 5->USB30 test status = NO,skip!
+20150921170718->Now check Test item 6->HDMI
+20150921170718->Item 6->HDMI test status = NO,skip!
+20150921170718->Now check Test item 7->DCIN
+20150921170718->Item 7->DCIN test status = NO,skip!
+20150921170729->Check Barcode Length Success,Length is 23
+20150921170729->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921170738->Check Barcode Length Success,Length is 23
+20150921170738->Check Barcode Start Whit Success,start with is SC50F54313
+20150921170738->SN:SC50F543131234567890123
+20150921170753->Start the tool.
+20150921170753->Create ini file.
+20150921170805->Start the tool.
+20150921170805->Create ini file.
+20150921170812->Open SerialPort=COM1 success.
+20150921170851->Start the tool.
+20150921170851->Create ini file.
+20150921170852->Open SerialPort=COM1 success.
+20150921170909->Check Barcode Length Success,Length is 23
+20150921170913->Check Barcode Start Whit Success,start with is SC50F54313
+20150921170941->Start the tool.
+20150921170941->Create ini file.
+20150921170943->Open SerialPort=COM1 success.
+20150921170944->Check Barcode Length Fail,Length is 23,Actual length is 10
+20150921170950->Check Barcode Length Success,Length is 23
+20150921170950->Check Barcode Start Whit Success,start with is SC50F54313
+20150921170950->SN:SC50F543131234567890123
+20150921171000->Start the tool.
+20150921171000->Create ini file.
+20150921171001->Open SerialPort=COM1 success.
+20150921171009->Check Barcode Length Success,Length is 23
+20150921171009->Check Barcode Start Whit Success,start with is SC50F54313
+20150921171009->SN:SC50F543131234567890123
+20150921171017->Start the tool.
+20150921171017->Create ini file.
+20150921171026->Open SerialPort=COM1 success.
+20150921171035->Check Barcode Length Fail,Length is 24,Actual length is 23
+20150921171044->Check Barcode Length Success,Length is 24
+20150921171044->Check Barcode Start Whit Success,start with is SC50F54313
+20150921171044->SN:SC50F5431312345678901234
+20150921171046->confirmed start test
+20150921171046->Now check Test item 1->Vibrator
+20150921171046->Item 1->Vibrator test status = YES,ready to test!
+20150921171046->Send COM1 A
+20150921171052->Start the tool.
+20150921171052->Create ini file.
+20150921171107->Open SerialPort=COM1 success.
+20150921171233->Start the tool.
+20150921171233->Create ini file.
+20150921171234->Open SerialPort=COM1 success.
+20150921171240->Input 'E.S.C', quit the test!
+20150921171314->Start the tool.
+20150921171314->Create ini file.
+20150921171320->Open SerialPort=COM1 success.
+20150921171323->Check Barcode Length SKIP,Length is 0.
+20150921171323->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921171338->Check Barcode Length SKIP,Length is 0.
+20150921171338->Check Barcode Start Whit Success,start with is SC50F54313
+20150921171338->SN:SC50F54313
+20150921171610->Start the tool.
+20150921171610->Create ini file.
+20150921171827->Start the tool.
+20150921171827->Create ini file.
+20150921171828->Open SerialPort=COM1 success.
+20150921171834->Check Barcode Length SKIP,Length is 0.
+20150921171834->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921171843->Check Barcode Length SKIP,Length is 0.
+20150921171843->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921171856->Check Barcode Length SKIP,Length is 0.
+20150921171856->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921171912->Check Barcode Length SKIP,Length is 0.
+20150921171912->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921171930->Check Barcode Length SKIP,Length is 0.
+20150921171931->Check Barcode Start Whit Success,start with is SC50F54313
+20150921171931->SN:SC50F54313
+20150921171934->confirmed start test
+20150921171934->Now check Test item 1->Vibrator
+20150921171934->Item 1->Vibrator test status = YES,ready to test!
+20150921180428->Start the tool.
+20150921180428->Create ini file.
+20150921180547->Start the tool.
+20150921180547->Create ini file.
+20150921180601->Open SerialPort=COM1 success.
+20150921180615->Check Barcode Length Fail,Length is 23,Actual length is 20
+20150921180622->Check Barcode Length Success,Length is 23
+20150921180622->Check Barcode Start Whit Success,start with is SC50F54313
+20150921180622->SN:SC50F543131234567890123
+20150921180624->confirmed start test
+20150921180624->Now check Test item 1->Vibrator
+20150921180624->Item 1->Vibrator test status = NO,skip!
+20150921180624->Now check Test item 2->Speaker
+20150921180624->Item 2->Speaker test status = NO,skip!
+20150921180624->Now check Test item 3->Keyboard
+20150921180624->Item 3->Keyboard test status = NO,skip!
+20150921180624->Now check Test item 4->Audio
+20150921180624->Item 4->Audio test status = NO,skip!
+20150921180624->Now check Test item 5->USB30
+20150921180624->Item 5->USB30 test status = NO,skip!
+20150921180624->Now check Test item 6->HDMI
+20150921180624->Item 6->HDMI test status = NO,skip!
+20150921180624->Now check Test item 7->DCIN
+20150921180624->Item 7->DCIN test status = NO,skip!
+20150921180705->Check Barcode Length Success,Length is 23
+20150921180705->Check Barcode Start Whit Success,start with is SC50F54313
+20150921180705->SN:SC50F543131234567890123
+20150921180707->confirmed start test
+20150921180707->Now check Test item 1->Vibrator
+20150921180707->Item 1->Vibrator test status = NO,skip!
+20150921180707->Now check Test item 2->Speaker
+20150921180707->Item 2->Speaker test status = NO,skip!
+20150921180707->Now check Test item 3->Keyboard
+20150921180707->Item 3->Keyboard test status = NO,skip!
+20150921180707->Now check Test item 4->Audio
+20150921180707->Item 4->Audio test status = NO,skip!
+20150921180707->Now check Test item 5->USB30
+20150921180707->Item 5->USB30 test status = NO,skip!
+20150921180707->Now check Test item 6->HDMI
+20150921180707->Item 6->HDMI test status = NO,skip!
+20150921180707->Now check Test item 7->DCIN
+20150921180707->Item 7->DCIN test status = NO,skip!
+20150921180816->Start the tool.
+20150921180816->Create ini file.
+20150921180838->Open SerialPort=COM1 success.
+20150921180922->Start the tool.
+20150921180922->Create ini file.
+20150921180923->Open SerialPort=COM1 success.
+20150921180931->Check Barcode Length Fail,Length is 23,Actual length is 24
+20150921180945->Check Barcode Length Success,Length is 23
+20150921180945->Check Barcode Start Whit Success,start with is SC50F54313
+20150921180945->SN:SC50F543131234567890321
+20150921180946->confirmed start test
+20150921180946->Now check Test item 1->Speaker
+20150921180946->Item 1->Speaker test status = YES,ready to test!
+20150921180946->Speaker,random create number:3
+20150921180951->Item Speaker test PASS.
+20150921180954->confirmed dock insert
+20150921180954->Now check Test item 2->Keyboard
+20150921180954->Item 2->Keyboard test status = YES,ready to test!
+20150921180957->Item Keyboard test PASS.
+20150921180957->Now check Test item 3->Audio
+20150921180957->Item 3->Audio test status = YES,ready to test!
+20150921180957->Audio,random create number:1
+20150921180959->Item Audio test PASS.
+20150921180959->Now check Test item 4->USB30
+20150921180959->Item 4->USB30 test status = NO,skip!
+20150921180959->Now check Test item 5->HDMI
+20150921180959->Item 5->HDMI test status = NO,skip!
+20150921180959->Now check Test item 6->DCIN
+20150921180959->Item 6->DCIN test status = NO,skip!
+20150921180959->Now check Test item 7->Vibrator
+20150921180959->Item 7->Vibrator test status = NO,skip!
+20150921181142->Start the tool.
+20150921181142->Create ini file.
+20150921181143->Open SerialPort=COM1 success.
+20150921181150->Check Barcode Length Success,Length is 23
+20150921181150->Check Barcode Start Whit Success,start with is SC50F54313
+20150921181150->SN:SC50F543131234567890890
+20150921181153->confirmed start test
+20150921181153->Now check Test item 1->Speaker
+20150921181153->Item 1->Speaker test status = YES,ready to test!
+20150921181153->Speaker,random create number:1
+20150921181155->Item Speaker test PASS.
+20150921181157->confirmed dock insert
+20150921181157->Now check Test item 2->Keyboard
+20150921181157->Item 2->Keyboard test status = YES,ready to test!
+20150921181200->Item Keyboard test PASS.
+20150921181200->Now check Test item 3->Audio
+20150921181200->Item 3->Audio test status = YES,ready to test!
+20150921181200->Audio,random create number:1
+20150921181203->Item Audio test PASS.
+20150921181203->Now check Test item 4->USB30
+20150921181203->Item 4->USB30 test status = NO,skip!
+20150921181203->Now check Test item 5->HDMI
+20150921181203->Item 5->HDMI test status = NO,skip!
+20150921181203->Now check Test item 6->DCIN
+20150921181203->Item 6->DCIN test status = NO,skip!
+20150921181203->Now check Test item 7->Vibrator
+20150921181203->Item 7->Vibrator test status = NO,skip!
+20150921181213->Input 'E.S.C', quit the test!
+20150921181223->Open SerialPort=COM1 success.
+20150921181258->Start the tool.
+20150921181258->Create ini file.
+20150921181312->Open SerialPort=COM1 success.
+20150921181315->Error,SN may be empty or null,but SN Can't be empty or null,try agian.
+20150921181319->Input 'E.S.C', quit the test!
+20150921181321->Open SerialPort=COM1 success.
+20150921181326->Input 'E.S.C', quit the test!
+20150921181355->Open SerialPort=COM1 success.
+20150921181357->Input 'E.S.C', quit the test!
+20150921181454->Start the tool.
+20150921181454->Create ini file.
+20150921181459->Open SerialPort=COM1 success.
+20150921181513->Start the tool.
+20150921181513->Create ini file.
+20150921181518->Open SerialPort=COM1 success.
+20150921181523->Check Barcode Length Success,Length is 23
+20150921181523->Check Barcode Start Whit Success,start with is SC50F54313
+20150921181523->SN:SC50F543131234567890IOP
+20150921181524->confirmed start test
+20150921181525->Now check Test item 1->Speaker
+20150921181525->Item 1->Speaker test status = YES,ready to test!
+20150921181525->Speaker,random create number:3
+20150921181527->Item Speaker test PASS.
+20150921181529->confirmed dock insert
+20150921181529->Now check Test item 2->Keyboard
+20150921181529->Item 2->Keyboard test status = YES,ready to test!
+20150921181532->Item Keyboard test PASS.
+20150921181532->Now check Test item 3->Audio
+20150921181532->Item 3->Audio test status = YES,ready to test!
+20150921181532->Audio,random create number:1
+20150921181534->Item Audio test PASS.
+20150921181534->Now check Test item 4->USB30
+20150921181534->Item 4->USB30 test status = NO,skip!
+20150921181534->Now check Test item 5->HDMI
+20150921181534->Item 5->HDMI test status = NO,skip!
+20150921181534->Now check Test item 6->DCIN
+20150921181534->Item 6->DCIN test status = NO,skip!
+20150921181534->Now check Test item 7->Vibrator
+20150921181534->Item 7->Vibrator test status = NO,skip!
+20150921181538->Input 'E.S.C', quit the test!
+20150921181544->Open SerialPort=COM1 success.
+20150921181552->Check Barcode Length Success,Length is 23
+20150921181552->Check Barcode Start Whit Success,start with is SC50F54313
+20150921181552->SN:SC50F543131234567890FGH
+20150921181557->confirmed start test
+20150921181557->Now check Test item 1->Speaker
+20150921181557->Item 1->Speaker test status = NO,skip!
+20150921181557->Now check Test item 2->Keyboard
+20150921181557->Item 2->Keyboard test status = NO,skip!
+20150921181557->Now check Test item 3->Audio
+20150921181557->Item 3->Audio test status = NO,skip!
+20150921181557->Now check Test item 4->USB30
+20150921181557->Item 4->USB30 test status = NO,skip!
+20150921181557->Now check Test item 5->HDMI
+20150921181557->Item 5->HDMI test status = NO,skip!
+20150921181557->Now check Test item 6->DCIN
+20150921181557->Item 6->DCIN test status = NO,skip!
+20150921181557->Now check Test item 7->Vibrator
+20150921181557->Item 7->Vibrator test status = NO,skip!
+20150921182104->Start the tool.
+20150921182104->Create ini file.
+20150921182105->Open SerialPort=COM1 success.
+20150921182109->Input 'E.S.C', quit the test!
+20150921182122->Open SerialPort=COM1 success.
+20150921182126->Check Barcode Length Fail,Length is 23,Actual length is 2
+20150921182130->Check Barcode Length Fail,Length is 23,Actual length is 15
+20150921182137->Check Barcode Length Success,Length is 23
+20150921182137->Check Barcode Start Whit Fail,start with is SC50F54313
+20150921182154->Check Barcode Length Fail,Length is 23,Actual length is 24
+20150921182214->Check Barcode Length Success,Length is 23
+20150921182214->Check Barcode Start Whit Success,start with is SC50F54313
+20150921182214->SN:SC50F543131234567890ZXC
+20150921182216->confirmed start test
+20150921182216->Now check Test item 1->Speaker
+20150921182216->Item 1->Speaker test status = NO,skip!
+20150921182216->Now check Test item 2->Keyboard
+20150921182216->Item 2->Keyboard test status = YES,ready to test!
+20150921182226->Item Keyboard test FAIL.
+20150921182226->SN:SC50F543131234567890ZXC,TestResult:FAIL
+20150921182307->Input 'E.S.C', quit the test!
+20150921182315->Open SerialPort=COM1 success.
+20150921182321->Check Barcode Length Fail,Length is 23,Actual length is 2
+20150921182329->Input 'E.S.C', quit the test!
+20150921182338->Open SerialPort=COM1 success.
+20150921182340->Check Barcode Length SKIP,Length is 0.
+20150921182340->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182340->SN:WEFGTHJ
+20150921182342->confirmed start test
+20150921182342->Now check Test item 1->Speaker
+20150921182342->Item 1->Speaker test status = NO,skip!
+20150921182342->Now check Test item 2->Keyboard
+20150921182342->Item 2->Keyboard test status = NO,skip!
+20150921182342->Now check Test item 3->Audio
+20150921182342->Item 3->Audio test status = NO,skip!
+20150921182342->Now check Test item 4->USB30
+20150921182342->Item 4->USB30 test status = NO,skip!
+20150921182342->Now check Test item 5->HDMI
+20150921182342->Item 5->HDMI test status = NO,skip!
+20150921182342->Now check Test item 6->DCIN
+20150921182342->Item 6->DCIN test status = NO,skip!
+20150921182342->Now check Test item 7->Vibrator
+20150921182342->Item 7->Vibrator test status = NO,skip!
+20150921182342->SN:WEFGTHJ,TestResult:PASS
+20150921182455->Start the tool.
+20150921182455->Create ini file.
+20150921182456->Open SerialPort=COM1 success.
+20150921182458->Check Barcode Length SKIP,Length is 0.
+20150921182458->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182458->SN:SDFGHJKILO;
+20150921182500->confirmed start test
+20150921182500->Now check Test item 1->Speaker
+20150921182500->Item 1->Speaker test status = NO,skip!
+20150921182500->Now check Test item 2->Keyboard
+20150921182500->Item 2->Keyboard test status = NO,skip!
+20150921182500->Now check Test item 3->Audio
+20150921182500->Item 3->Audio test status = NO,skip!
+20150921182500->Now check Test item 4->USB30
+20150921182500->Item 4->USB30 test status = NO,skip!
+20150921182500->Now check Test item 5->HDMI
+20150921182500->Item 5->HDMI test status = NO,skip!
+20150921182500->Now check Test item 6->DCIN
+20150921182500->Item 6->DCIN test status = NO,skip!
+20150921182500->Now check Test item 7->Vibrator
+20150921182500->Item 7->Vibrator test status = NO,skip!
+20150921182500->SN:SDFGHJKILO;,TestResult:PASS
+20150921182658->Start the tool.
+20150921182658->Create ini file.
+20150921182659->Open SerialPort=COM1 success.
+20150921182701->Check Barcode Length SKIP,Length is 0.
+20150921182701->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182701->SN:123
+20150921182702->confirmed start test
+20150921182703->Now check Test item 1->Speaker
+20150921182703->Item 1->Speaker test status = NO,skip!
+20150921182703->Now check Test item 2->Keyboard
+20150921182703->Item 2->Keyboard test status = NO,skip!
+20150921182703->Now check Test item 3->Audio
+20150921182703->Item 3->Audio test status = NO,skip!
+20150921182703->Now check Test item 4->USB30
+20150921182703->Item 4->USB30 test status = NO,skip!
+20150921182703->Now check Test item 5->HDMI
+20150921182703->Item 5->HDMI test status = NO,skip!
+20150921182703->Now check Test item 6->DCIN
+20150921182703->Item 6->DCIN test status = NO,skip!
+20150921182703->Now check Test item 7->Vibrator
+20150921182703->Item 7->Vibrator test status = NO,skip!
+20150921182703->SN:123,TestResult:PASS
+20150921182754->Start the tool.
+20150921182754->Create ini file.
+20150921182755->Open SerialPort=COM1 success.
+20150921182757->Check Barcode Length SKIP,Length is 0.
+20150921182757->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182757->SN:123456
+20150921182758->confirmed start test
+20150921182759->Now check Test item 1->Speaker
+20150921182759->Item 1->Speaker test status = NO,skip!
+20150921182759->Now check Test item 2->Keyboard
+20150921182759->Item 2->Keyboard test status = NO,skip!
+20150921182759->Now check Test item 3->Audio
+20150921182759->Item 3->Audio test status = NO,skip!
+20150921182759->Now check Test item 4->USB30
+20150921182759->Item 4->USB30 test status = NO,skip!
+20150921182759->Now check Test item 5->HDMI
+20150921182759->Item 5->HDMI test status = NO,skip!
+20150921182759->Now check Test item 6->DCIN
+20150921182759->Item 6->DCIN test status = NO,skip!
+20150921182759->Now check Test item 7->Vibrator
+20150921182759->Item 7->Vibrator test status = NO,skip!
+20150921182759->SN:123456,TestResult:PASS
+20150921182826->Start the tool.
+20150921182826->Create ini file.
+20150921182828->Open SerialPort=COM1 success.
+20150921182830->Check Barcode Length SKIP,Length is 0.
+20150921182830->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182830->SN:234567
+20150921182831->confirmed start test
+20150921182831->Now check Test item 1->Speaker
+20150921182831->Item 1->Speaker test status = NO,skip!
+20150921182831->Now check Test item 2->Keyboard
+20150921182831->Item 2->Keyboard test status = NO,skip!
+20150921182831->Now check Test item 3->Audio
+20150921182831->Item 3->Audio test status = NO,skip!
+20150921182831->Now check Test item 4->USB30
+20150921182831->Item 4->USB30 test status = NO,skip!
+20150921182831->Now check Test item 5->HDMI
+20150921182831->Item 5->HDMI test status = NO,skip!
+20150921182831->Now check Test item 6->DCIN
+20150921182831->Item 6->DCIN test status = NO,skip!
+20150921182831->Now check Test item 7->Vibrator
+20150921182831->Item 7->Vibrator test status = NO,skip!
+20150921182831->SN:234567,TestResult:PASS
+20150921182851->Start the tool.
+20150921182851->Create ini file.
+20150921182852->Open SerialPort=COM1 success.
+20150921182854->Check Barcode Length SKIP,Length is 0.
+20150921182854->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921182854->SN:SDFGHJ
+20150921182855->confirmed start test
+20150921182856->Now check Test item 1->Speaker
+20150921182856->Item 1->Speaker test status = NO,skip!
+20150921182856->Now check Test item 2->Keyboard
+20150921182856->Item 2->Keyboard test status = NO,skip!
+20150921182856->Now check Test item 3->Audio
+20150921182856->Item 3->Audio test status = NO,skip!
+20150921182856->Now check Test item 4->USB30
+20150921182856->Item 4->USB30 test status = NO,skip!
+20150921182856->Now check Test item 5->HDMI
+20150921182856->Item 5->HDMI test status = NO,skip!
+20150921182856->Now check Test item 6->DCIN
+20150921182856->Item 6->DCIN test status = NO,skip!
+20150921182856->Now check Test item 7->Vibrator
+20150921182856->Item 7->Vibrator test status = NO,skip!
+20150921182856->SN:SDFGHJ,TestResult:PASS
+20150921183142->Start the tool.
+20150921183142->Create ini file.
+20150921183143->Open SerialPort=COM1 success.
+20150921183145->Check Barcode Length SKIP,Length is 0.
+20150921183145->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921183145->SN:1
+20150921183147->confirmed start test
+20150921183147->Now check Test item 1->Speaker
+20150921183147->Item 1->Speaker test status = NO,skip!
+20150921183147->Now check Test item 2->Keyboard
+20150921183147->Item 2->Keyboard test status = NO,skip!
+20150921183147->Now check Test item 3->Audio
+20150921183147->Item 3->Audio test status = NO,skip!
+20150921183147->Now check Test item 4->USB30
+20150921183147->Item 4->USB30 test status = NO,skip!
+20150921183147->Now check Test item 5->HDMI
+20150921183147->Item 5->HDMI test status = NO,skip!
+20150921183147->Now check Test item 6->DCIN
+20150921183147->Item 6->DCIN test status = NO,skip!
+20150921183147->Now check Test item 7->Vibrator
+20150921183147->Item 7->Vibrator test status = NO,skip!
+20150921183147->SN:1,TestResult:PASS
+20150921183149->Check Barcode Length SKIP,Length is 0.
+20150921183149->Check Barcode Start Whit SKIP,start with is empty or null.
+20150921183149->SN:34
+20150921183151->confirmed start test
+20150921183151->Now check Test item 1->Speaker
+20150921183151->Item 1->Speaker test status = NO,skip!
+20150921183151->Now check Test item 2->Keyboard
+20150921183151->Item 2->Keyboard test status = NO,skip!
+20150921183151->Now check Test item 3->Audio
+20150921183151->Item 3->Audio test status = NO,skip!
+20150921183151->Now check Test item 4->USB30
+20150921183151->Item 4->USB30 test status = NO,skip!
+20150921183151->Now check Test item 5->HDMI
+20150921183151->Item 5->HDMI test status = NO,skip!
+20150921183151->Now check Test item 6->DCIN
+20150921183151->Item 6->DCIN test status = NO,skip!
+20150921183151->Now check Test item 7->Vibrator
+20150921183151->Item 7->Vibrator test status = NO,skip!
+20150921183151->SN:34,TestResult:PASS
+20150921183227->Input 'E.S.C', quit the test!
+20150921183326->Open SerialPort=COM1 success.
+20150921183343->Check Barcode Length Success,Length is 23
+20150921183343->Check Barcode Start Whit Success,start with is SC50F54313
+20150921183343->SN:SC50F543131234567890123
+20150921183345->confirmed start test
+20150921183345->Now check Test item 1->Speaker
+20150921183345->Item 1->Speaker test status = YES,ready to test!
+20150921183345->Speaker,random create number:2
+20150921183346->Item Speaker test PASS.
+20150921183348->confirmed dock insert
+20150921183348->Now check Test item 2->Keyboard
+20150921183348->Item 2->Keyboard test status = YES,ready to test!
+20150921183351->Item Keyboard test PASS.
+20150921183351->Now check Test item 3->Audio
+20150921183351->Item 3->Audio test status = YES,ready to test!
+20150921183351->Audio,random create number:1
+20150921183352->Item Audio test PASS.
+20150921183352->Now check Test item 4->USB30
+20150921183352->Item 4->USB30 test status = NO,skip!
+20150921183352->Now check Test item 5->HDMI
+20150921183352->Item 5->HDMI test status = NO,skip!
+20150921183352->Now check Test item 6->DCIN
+20150921183352->Item 6->DCIN test status = NO,skip!
+20150921183352->Now check Test item 7->Vibrator
+20150921183352->Item 7->Vibrator test status = NO,skip!
+20150921183352->SN:SC50F543131234567890123,TestResult:PASS
+20150921183413->Check Barcode Length Success,Length is 23
+20150921183413->Check Barcode Start Whit Success,start with is SC50F54313
+20150921183413->SN:SC50F543131234567890ASD
+20150921183415->confirmed start test
+20150921183416->Now check Test item 1->Speaker
+20150921183416->Item 1->Speaker test status = YES,ready to test!
+20150921183416->Speaker,random create number:2
+20150921183417->Item Speaker test PASS.
+20150921183418->confirmed dock insert
+20150921183418->Now check Test item 2->Keyboard
+20150921183418->Item 2->Keyboard test status = YES,ready to test!
+20150921183421->Item Keyboard test PASS.
+20150921183421->Now check Test item 3->Audio
+20150921183421->Item 3->Audio test status = YES,ready to test!
+20150921183421->Audio,random create number:4
+20150921183423->Item Audio test PASS.
+20150921183423->Now check Test item 4->USB30
+20150921183423->Item 4->USB30 test status = NO,skip!
+20150921183423->Now check Test item 5->HDMI
+20150921183423->Item 5->HDMI test status = NO,skip!
+20150921183423->Now check Test item 6->DCIN
+20150921183423->Item 6->DCIN test status = NO,skip!
+20150921183423->Now check Test item 7->Vibrator
+20150921183423->Item 7->Vibrator test status = NO,skip!
+20150921183423->SN:SC50F543131234567890ASD,TestResult:PASS
+20150921183428->Input 'E.S.C', quit the test!
+20150921183524->Start the tool.
+20150921183524->Create ini file.
+20150921183527->Open SerialPort=COM1 success.
+20150921183532->Check Barcode Length Success,Length is 23
+20150921183532->Check Barcode Start Whit Success,start with is SC50F54313
+20150921183532->SN:SC50F543131234567890AS1
+20150921183534->confirmed start test
+20150921183534->Now check Test item 1->Speaker
+20150921183534->Item 1->Speaker test status = YES,ready to test!
+20150921183534->Speaker,random create number:1
+20150921183544->Item Speaker test FAIL.
+20150921183544->SN:SC50F543131234567890AS1,TestResult:FAIL
+20150921183607->Input 'E.S.C', quit the test!
+20150921184047->Start the tool.
+20150921184047->Create ini file.
+20150921184222->Start the tool.
+20150921184222->Create ini file.
+20150921185440->Start the tool.
+20150921185440->Create ini file.

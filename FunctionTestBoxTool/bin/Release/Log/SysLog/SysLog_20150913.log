@@ -1,0 +1,369 @@
+20150913092638->Start the tool.
+20150913092638->Create ini file.
+20150913092705->Open SerialPort=COM1 success.
+20150913092707->SN:12345
+20150913092708->Now check Test item 1->Speaker
+20150913092708->Item 1->Speaker test status = YES,ready to test!
+20150913092708->Speaker,random create number:1
+20150913092710->Item Speaker test PASS.
+20150913092715->confirmed dock insert
+20150913092716->Now check Test item 2->Audio
+20150913092716->Item 2->Audio test status = YES,ready to test!
+20150913092716->Audio,random create number:6
+20150913092721->Item Audio test PASS.
+20150913092721->Now check Test item 3->Keyboard
+20150913092721->Item 3->Keyboard test status = YES,ready to test!
+20150913092754->Start the tool.
+20150913092754->Create ini file.
+20150913092759->Open SerialPort=COM1 success.
+20150913092800->SN:2345
+20150913092800->Now check Test item 1->Speaker
+20150913092800->Item 1->Speaker test status = YES,ready to test!
+20150913092800->Speaker,random create number:1
+20150913092801->Item Speaker test PASS.
+20150913092805->confirmed dock insert
+20150913092805->Now check Test item 2->Audio
+20150913092805->Item 2->Audio test status = YES,ready to test!
+20150913092805->Audio,random create number:5
+20150913092806->confirmed dock insert
+20150913092836->Start the tool.
+20150913092836->Create ini file.
+20150913092837->Open SerialPort=COM1 success.
+20150913092839->SN:123456
+20150913092839->Now check Test item 1->Speaker
+20150913092839->Item 1->Speaker test status = YES,ready to test!
+20150913092839->Speaker,random create number:1
+20150913092841->Item Speaker test PASS.
+20150913092843->confirmed dock insert
+20150913092843->Now check Test item 2->Audio
+20150913092843->Item 2->Audio test status = YES,ready to test!
+20150913092843->Audio,random create number:2
+20150913092844->confirmed dock insert
+20150913092916->Start the tool.
+20150913092916->Create ini file.
+20150913092918->Open SerialPort=COM1 success.
+20150913092919->SN:1234567
+20150913092919->Now check Test item 1->Speaker
+20150913092919->Item 1->Speaker test status = YES,ready to test!
+20150913092919->Speaker,random create number:2
+20150913092923->Item Speaker test PASS.
+20150913092926->confirmed dock insert
+20150913092927->Now check Test item 2->Audio
+20150913092927->Item 2->Audio test status = YES,ready to test!
+20150913092927->Audio,random create number:4
+20150913093048->Start the tool.
+20150913093048->Create ini file.
+20150913093050->Open SerialPort=COM1 success.
+20150913093051->SN:1234
+20150913093051->Now check Test item 1->Speaker
+20150913093051->Item 1->Speaker test status = YES,ready to test!
+20150913093051->Speaker,random create number:1
+20150913093056->Item Speaker test PASS.
+20150913093103->confirmed dock insert
+20150913093103->Now check Test item 2->Audio
+20150913093103->Item 2->Audio test status = YES,ready to test!
+20150913093103->Audio,random create number:3
+20150913093159->Start the tool.
+20150913093159->Create ini file.
+20150913093201->Open SerialPort=COM1 success.
+20150913093202->SN:12345
+20150913093202->Now check Test item 1->Speaker
+20150913093202->Item 1->Speaker test status = YES,ready to test!
+20150913093202->Speaker,random create number:1
+20150913093208->Item Speaker test PASS.
+20150913093210->confirmed dock insert
+20150913093210->Now check Test item 2->Audio
+20150913093210->Item 2->Audio test status = YES,ready to test!
+20150913093210->Audio,random create number:2
+20150913093212->Item Audio test PASS.
+20150913093212->Now check Test item 3->Keyboard
+20150913093212->Item 3->Keyboard test status = YES,ready to test!
+20150913093218->Item Keyboard test PASS.
+20150913093218->Now check Test item 4->HDMI
+20150913093218->Now check Test item 5->USB30
+20150913093218->Now check Test item 6->Vibrator
+20150913093218->Now check Test item 7->DCIN
+20150913094405->Start the tool.
+20150913094405->Create ini file.
+20150913094517->Start the tool.
+20150913094517->Create ini file.
+20150913094519->Open SerialPort=COM1 success.
+20150913094521->SN:123456
+20150913094521->Now check Test item 1->Speaker
+20150913094521->Item 1->Speaker test status = YES,ready to test!
+20150913094521->Speaker,random create number:1
+20150913094523->Item Speaker test PASS.
+20150913094619->Start the tool.
+20150913094619->Create ini file.
+20150913094620->Open SerialPort=COM1 success.
+20150913094622->SN:123456
+20150913094622->Now check Test item 1->Speaker
+20150913094622->Item 1->Speaker test status = YES,ready to test!
+20150913094622->Speaker,random create number:1
+20150913094623->Item Speaker test PASS.
+20150913094720->Start the tool.
+20150913094720->Create ini file.
+20150913094722->Open SerialPort=COM1 success.
+20150913094724->SN:234567
+20150913094724->Now check Test item 1->Speaker
+20150913094724->Item 1->Speaker test status = YES,ready to test!
+20150913094724->Speaker,random create number:3
+20150913094726->Item Speaker test PASS.
+20150913094816->Start the tool.
+20150913094816->Create ini file.
+20150913094818->Open SerialPort=COM1 success.
+20150913094819->SN:2134567
+20150913094819->Now check Test item 1->Speaker
+20150913094819->Item 1->Speaker test status = YES,ready to test!
+20150913094819->Speaker,random create number:3
+20150913094822->Item Speaker test PASS.
+20150913094824->confirmed dock insert
+20150913094824->Now check Test item 2->Audio
+20150913094824->Item 2->Audio test status = YES,ready to test!
+20150913094824->Audio,random create number:8
+20150913094826->Item Audio test PASS.
+20150913094826->Now check Test item 3->Keyboard
+20150913094826->Item 3->Keyboard test status = YES,ready to test!
+20150913094831->Item Keyboard test PASS.
+20150913094831->Now check Test item 4->HDMI
+20150913094831->Item 4->HDMI test status = NO,skip!
+20150913094831->Now check Test item 5->USB30
+20150913094831->Item 5->USB30 test status = NO,skip!
+20150913094831->Now check Test item 6->Vibrator
+20150913094831->Item 6->Vibrator test status = NO,skip!
+20150913094831->Now check Test item 7->DCIN
+20150913094831->Item 7->DCIN test status = NO,skip!
+20150913094835->SN:12345678
+20150913094835->Now check Test item 1->Speaker
+20150913094835->Item 1->Speaker test status = YES,ready to test!
+20150913094835->Speaker,random create number:3
+20150913094837->Item Speaker test PASS.
+20150913094837->Now check Test item 2->Audio
+20150913094837->Item 2->Audio test status = YES,ready to test!
+20150913094837->Audio,random create number:3
+20150913094839->Item Audio test PASS.
+20150913094839->Now check Test item 3->Keyboard
+20150913094839->Item 3->Keyboard test status = YES,ready to test!
+20150913094843->Item Keyboard test PASS.
+20150913094843->Now check Test item 4->HDMI
+20150913094843->Item 4->HDMI test status = NO,skip!
+20150913094843->Now check Test item 5->USB30
+20150913094843->Item 5->USB30 test status = NO,skip!
+20150913094843->Now check Test item 6->Vibrator
+20150913094843->Item 6->Vibrator test status = NO,skip!
+20150913094843->Now check Test item 7->DCIN
+20150913094843->Item 7->DCIN test status = NO,skip!
+20150913094845->SN:1234567
+20150913094845->Now check Test item 1->Speaker
+20150913094845->Item 1->Speaker test status = YES,ready to test!
+20150913094845->Speaker,random create number:2
+20150913094847->Item Speaker test PASS.
+20150913094847->Now check Test item 2->Audio
+20150913094847->Item 2->Audio test status = YES,ready to test!
+20150913094847->Audio,random create number:6
+20150913095025->Start the tool.
+20150913095025->Create ini file.
+20150913095028->Open SerialPort=COM1 success.
+20150913095032->SN:JHGFDS
+20150913095032->Now check Test item 1->Speaker
+20150913095032->Item 1->Speaker test status = YES,ready to test!
+20150913095032->Speaker,random create number:2
+20150913095034->Item Speaker test PASS.
+20150913095036->confirmed dock insert
+20150913095036->Now check Test item 2->Audio
+20150913095036->Item 2->Audio test status = YES,ready to test!
+20150913095036->Audio,random create number:4
+20150913095038->Item Audio test PASS.
+20150913095038->Now check Test item 3->Keyboard
+20150913095038->Item 3->Keyboard test status = YES,ready to test!
+20150913095040->Item Keyboard test PASS.
+20150913095040->Now check Test item 4->HDMI
+20150913095040->Item 4->HDMI test status = NO,skip!
+20150913095040->Now check Test item 5->USB30
+20150913095040->Item 5->USB30 test status = NO,skip!
+20150913095040->Now check Test item 6->Vibrator
+20150913095040->Item 6->Vibrator test status = NO,skip!
+20150913095040->Now check Test item 7->DCIN
+20150913095040->Item 7->DCIN test status = NO,skip!
+20150913095044->SN:23467890LKJMNHB
+20150913095044->Now check Test item 1->Speaker
+20150913095044->Item 1->Speaker test status = YES,ready to test!
+20150913095044->Speaker,random create number:3
+20150913095046->Item Speaker test PASS.
+20150913095138->Start the tool.
+20150913095138->Create ini file.
+20150913095139->Open SerialPort=COM1 success.
+20150913095141->SN:213478
+20150913095141->Now check Test item 1->Speaker
+20150913095141->Item 1->Speaker test status = YES,ready to test!
+20150913095141->Speaker,random create number:1
+20150913095143->Item Speaker test PASS.
+20150913095145->confirmed dock insert
+20150913095146->Now check Test item 2->Audio
+20150913095146->Item 2->Audio test status = YES,ready to test!
+20150913095146->Audio,random create number:1
+20150913095148->Item Audio test PASS.
+20150913095148->Now check Test item 3->Keyboard
+20150913095148->Item 3->Keyboard test status = YES,ready to test!
+20150913095154->Item Keyboard test PASS.
+20150913095154->Now check Test item 4->HDMI
+20150913095154->Item 4->HDMI test status = NO,skip!
+20150913095154->Now check Test item 5->USB30
+20150913095154->Item 5->USB30 test status = NO,skip!
+20150913095154->Now check Test item 6->Vibrator
+20150913095154->Item 6->Vibrator test status = NO,skip!
+20150913095154->Now check Test item 7->DCIN
+20150913095154->Item 7->DCIN test status = NO,skip!
+20150913095156->SN:RTYUIJHGF
+20150913095156->Now check Test item 1->Speaker
+20150913095156->Item 1->Speaker test status = YES,ready to test!
+20150913095156->Speaker,random create number:3
+20150913095158->Item Speaker test PASS.
+20150913095200->confirmed dock insert
+20150913095200->Now check Test item 2->Audio
+20150913095200->Item 2->Audio test status = YES,ready to test!
+20150913095200->Audio,random create number:2
+20150913095202->Item Audio test PASS.
+20150913095202->Now check Test item 3->Keyboard
+20150913095202->Item 3->Keyboard test status = YES,ready to test!
+20150913095206->Item Keyboard test PASS.
+20150913095206->Now check Test item 4->HDMI
+20150913095206->Item 4->HDMI test status = NO,skip!
+20150913095206->Now check Test item 5->USB30
+20150913095206->Item 5->USB30 test status = NO,skip!
+20150913095206->Now check Test item 6->Vibrator
+20150913095206->Item 6->Vibrator test status = NO,skip!
+20150913095206->Now check Test item 7->DCIN
+20150913095206->Item 7->DCIN test status = NO,skip!
+20150913095209->Input 'E.S.C', quit the test!
+20150913113839->Start the tool.
+20150913113839->Create ini file.
+20150913113850->Start the tool.
+20150913113850->Create ini file.
+20150913113851->Open SerialPort=COM1 success.
+20150913113853->SN:12345678
+20150913113857->confirmed start test
+20150913113857->Now check Test item 1->Speaker
+20150913113857->Item 1->Speaker test status = YES,ready to test!
+20150913113857->Speaker,random create number:1
+20150913113903->Item Speaker test PASS.
+20150913113948->Start the tool.
+20150913113948->Create ini file.
+20150913113949->Open SerialPort=COM1 success.
+20150913113951->SN:1234567
+20150913113953->confirmed start test
+20150913113953->Now check Test item 1->Speaker
+20150913113953->Item 1->Speaker test status = YES,ready to test!
+20150913113953->Speaker,random create number:3
+20150913113955->Item Speaker test PASS.
+20150913113959->confirmed dock insert
+20150913113959->Now check Test item 2->Audio
+20150913113959->Item 2->Audio test status = YES,ready to test!
+20150913113959->Audio,random create number:3
+20150913114001->Item Audio test PASS.
+20150913114001->Now check Test item 3->Keyboard
+20150913114001->Item 3->Keyboard test status = YES,ready to test!
+20150913114005->Item Keyboard test PASS.
+20150913114005->Now check Test item 4->HDMI
+20150913114005->Item 4->HDMI test status = NO,skip!
+20150913114005->Now check Test item 5->USB30
+20150913114005->Item 5->USB30 test status = NO,skip!
+20150913114005->Now check Test item 6->Vibrator
+20150913114005->Item 6->Vibrator test status = NO,skip!
+20150913114005->Now check Test item 7->DCIN
+20150913114005->Item 7->DCIN test status = NO,skip!
+20150913114009->Input 'E.S.C', quit the test!
+20150913115013->Start the tool.
+20150913115013->Create ini file.
+20150913115015->Open SerialPort=COM1 success.
+20150913115018->SN:21345678
+20150913115021->confirmed start test
+20150913115021->Now check Test item 1->Speaker
+20150913115021->Item 1->Speaker test status = YES,ready to test!
+20150913115021->Speaker,random create number:3
+20150913115023->Item Speaker test PASS.
+20150913115025->confirmed dock insert
+20150913115025->Now check Test item 2->Audio
+20150913115025->Item 2->Audio test status = YES,ready to test!
+20150913115025->Audio,random create number:4
+20150913115031->Item Audio test PASS.
+20150913115031->Now check Test item 3->Keyboard
+20150913115031->Item 3->Keyboard test status = YES,ready to test!
+20150913115037->Item Keyboard test PASS.
+20150913115037->Now check Test item 4->HDMI
+20150913115037->Item 4->HDMI test status = NO,skip!
+20150913115037->Now check Test item 5->USB30
+20150913115037->Item 5->USB30 test status = NO,skip!
+20150913115037->Now check Test item 6->Vibrator
+20150913115037->Item 6->Vibrator test status = NO,skip!
+20150913115037->Now check Test item 7->DCIN
+20150913115037->Item 7->DCIN test status = NO,skip!
+20150913115058->SN:23456789
+20150913115128->confirmed start test
+20150913115128->Now check Test item 1->Speaker
+20150913115128->Item 1->Speaker test status = YES,ready to test!
+20150913115128->Speaker,random create number:2
+20150913115130->Item Speaker test PASS.
+20150913115133->confirmed dock insert
+20150913115133->Now check Test item 2->Audio
+20150913115133->Item 2->Audio test status = YES,ready to test!
+20150913115133->Audio,random create number:4
+20150913115138->Item Audio test PASS.
+20150913115138->Now check Test item 3->Keyboard
+20150913115138->Item 3->Keyboard test status = YES,ready to test!
+20150913115142->Item Keyboard test PASS.
+20150913115142->Now check Test item 4->HDMI
+20150913115142->Item 4->HDMI test status = NO,skip!
+20150913115142->Now check Test item 5->USB30
+20150913115142->Item 5->USB30 test status = NO,skip!
+20150913115142->Now check Test item 6->Vibrator
+20150913115142->Item 6->Vibrator test status = NO,skip!
+20150913115142->Now check Test item 7->DCIN
+20150913115142->Item 7->DCIN test status = NO,skip!
+20150913115144->SN:RDFG
+20150913115147->confirmed start test
+20150913115147->Now check Test item 1->Speaker
+20150913115147->Item 1->Speaker test status = YES,ready to test!
+20150913115147->Speaker,random create number:2
+20150913115149->Item Speaker test PASS.
+20150913115154->confirmed dock insert
+20150913115154->Now check Test item 2->Audio
+20150913115154->Item 2->Audio test status = YES,ready to test!
+20150913115154->Audio,random create number:2
+20150913115158->Item Audio test PASS.
+20150913115158->Now check Test item 3->Keyboard
+20150913115158->Item 3->Keyboard test status = YES,ready to test!
+20150913115201->Item Keyboard test PASS.
+20150913115201->Now check Test item 4->HDMI
+20150913115201->Item 4->HDMI test status = NO,skip!
+20150913115201->Now check Test item 5->USB30
+20150913115201->Item 5->USB30 test status = NO,skip!
+20150913115201->Now check Test item 6->Vibrator
+20150913115201->Item 6->Vibrator test status = NO,skip!
+20150913115201->Now check Test item 7->DCIN
+20150913115201->Item 7->DCIN test status = NO,skip!
+20150913115203->SN:34567890
+20150913115205->confirmed start test
+20150913115206->Now check Test item 1->Speaker
+20150913115206->Item 1->Speaker test status = YES,ready to test!
+20150913115206->Speaker,random create number:1
+20150913115208->Item Speaker test PASS.
+20150913115210->confirmed dock insert
+20150913115211->Now check Test item 2->Audio
+20150913115211->Item 2->Audio test status = YES,ready to test!
+20150913115211->Audio,random create number:4
+20150913115216->Item Audio test PASS.
+20150913115216->Now check Test item 3->Keyboard
+20150913115216->Item 3->Keyboard test status = YES,ready to test!
+20150913115219->Item Keyboard test PASS.
+20150913115219->Now check Test item 4->HDMI
+20150913115219->Item 4->HDMI test status = NO,skip!
+20150913115219->Now check Test item 5->USB30
+20150913115219->Item 5->USB30 test status = NO,skip!
+20150913115219->Now check Test item 6->Vibrator
+20150913115219->Item 6->Vibrator test status = NO,skip!
+20150913115219->Now check Test item 7->DCIN
+20150913115219->Item 7->DCIN test status = NO,skip!
+20150913115223->Error,SN may be empty or null,but SN Can't be empty or null,try agian.
+20150913115232->Error,SN may be empty or null,but SN Can't be empty or null,try agian.
+20150913115235->Input 'E.S.C', quit the test!
